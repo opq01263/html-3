@@ -651,6 +651,11 @@ margin-left: 150px;
 	margin-left: 320px;
 	margin-top: 10px;
 }
+.enter:hover{
+	display: block;
+	height: 25px;
+	cursor: pointer;
+}
 .clearfix{
 	clear:both;
 }
